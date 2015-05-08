@@ -1,15 +1,17 @@
-# Uses and Challenges of Mechanical Turk
+## Uses and Challenges of Mechanical Turk
 
 Workshop to be delivered at the 2015 Association for Psychological Science Conference
+
+## Authors
 
 1. Matthew Crump, Brooklyn College of the City University of New York
 2. Todd Gureckis, New York University
 
 ## Details
 
-Time: 1:00pm - 3:50pm
-Date: Thursday, May 21st
-Location: Liberty
+	Time: 1:00pm - 3:50pm
+	Date: Thursday, May 21st
+	Location: Liberty
 
 ## Overview:
 
