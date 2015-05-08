@@ -1,0 +1,10 @@
+---
+layout: default
+title: Someone's something
+---
+
+  <section id="main-content">
+          	{% capture frontstuff %}{% include frontstuff.md %}{% endcapture %}
+			{{ frontstuff  | markdownify }}
+        </section>
+
