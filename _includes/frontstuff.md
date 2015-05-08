@@ -1,6 +1,6 @@
 ## Uses and Challenges of Mechanical Turk
 
-Workshop to be delivered at the 2015 Association for Psychological Science Conference
+Workshop to be delivered at the [2015 Association for Psychological Science Convention](http://www.psychologicalscience.org/index.php/convention)
 
 ## Authors
 
