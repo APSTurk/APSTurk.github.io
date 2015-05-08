@@ -1,5 +1,22 @@
 # Helpful Turk Links
 
+## Experiment platforms
+
+- [psiTurk](https://psiturk.org)
+- [jsPsych](http://www.jspsych.org)
+- [QRTEngine](http://www.qrtengine.com)
+- [ScriptingRT](https://reactiontimes.wordpress.com/scriptingrt/)
+- [Qualtrics](http://www.qualtrics.com)
+
+## Blogs, tutorials
+
+- [Crump Lab Github various tutorials](https://github.com/CrumpLab/) 
+- [Gureckis Lab blog](http://gureckislab.org/blog/)
+- [Gureckis Github](https://github.com/gureckis)
+- [Experimental Turk Blog](https://experimentalturk.wordpress.com)
+- [Buhrmester AMT](http://homepage.psy.utexas.edu/homepage/students/buhrmester/MTurk%20Guide.htm)
+- [Crowdsourcing course](http://www.cs.princeton.edu/courses/archive/fall09/cos597D/index.php/Main/Syllabus)
+
 ## Journal Articles 
 
 - Barnhoorn, J. S., Haasnoot, E., Bocanegra, B. R., & van Steenbergen, H. (2014). QRTEngine: An easy solution for running online reaction time experiments using Qualtrics. Behavior Research Methods, 1–12.
