@@ -1,6 +1,6 @@
 ## Uses and Challenges of Mechanical Turk
 
-Workshop to be delivered at the [2015 Association for Psychological Science Convention](http://www.psychologicalscience.org/index.php/convention)
+Workshop to be delivered at the [2016 Association for Psychological Science Convention](http://www.psychologicalscience.org/index.php/convention)
 
 ## Authors
 
@@ -9,9 +9,8 @@ Workshop to be delivered at the [2015 Association for Psychological Science Conv
 
 ## Details
 
-	Time: 1:00pm - 3:50pm
-	Date: Thursday, May 21st
-	Location: Liberty
+	Time: 8:30am - 11:20am
+	Date: Sunday, May 29th
 
 ## Overview:
 
